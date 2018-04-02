@@ -1,5 +1,4 @@
 # idea
-Demo1
 class SortReady{
     public static boolean less(Comparable a,Comparable b){
         return  a.comparaTo(b);
